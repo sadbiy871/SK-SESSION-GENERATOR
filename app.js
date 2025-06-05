@@ -2,7 +2,7 @@
     "name": "SK Session Generator",
     "description": "Web Session Generator",
     "logo": "https://i.imgur.com/teQzVR1.jpeg",
-    "repository": "https://github.com/sadbiy871/SK-pair",
+    "repository": "https://github.com/sadbiy871/SK-SESSION-GENERATOR",
     "keywords": ["SK HACKER","sadbiy871"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
