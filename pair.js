@@ -77,7 +77,7 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "malvin~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, MALVIN-XD User!* 👋🏻
+                        let desc = `*Hey there, SK-HACKER User!* 👋🏻
 
 Thanks for using *TECH-MASTER* — your session has been successfully created!
 
@@ -127,7 +127,7 @@ Join our official WhatsApp Channel:
 https://whatsapp.com/channel/0029Vb5pqpiAO7RC8BlVO40H/364
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/sadbiy871/SK-HACKER
+https://github.com/sadbiy871/TECH-MASTER
 
 ——————
 
