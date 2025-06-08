@@ -10,7 +10,7 @@
 
 ## 💡 Fork This Project
 
-[![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/sadbiy871/TECH-MASTER/fork)
+[![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/sadbiy871/SK-HACKER-BOT/fork)
 
 Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web QR login.
 
@@ -54,11 +54,11 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 <p align="center">
   <a href="https://github.com/sadbiy871">
-    <img src="https://github.com/sadbiy871.png" width="200" height="200" alt="Malvin King"/>
+    <img src="https://github.com/sadbiy871.png" width="200" height="200" alt="SK HACKER"/>
   </a>
 </p>
 
-📬 [`Contact on WhatsApp`](https://wa.me/923128112507)
+📬 [`Contact on WhatsApp`](https://wa.me/923293746588)
 
 ---
 
