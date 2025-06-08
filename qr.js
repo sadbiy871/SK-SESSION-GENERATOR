@@ -70,11 +70,11 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "malvin~" + string_session;
+                        let md = "sk~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*Hey there, SK-HACKER User!* 👋🏻
 
-Thanks for using *TECH-MASTER* — your session has been successfully created!
+Thanks for using *SK-HACKER-* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -87,7 +87,7 @@ https://whatsapp.com/channel/0029Vb5pqpiAO7RC8BlVO40H/364
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/sadbiy871/TECH-MASTER
+https://github.com/sadbiy871/SK-HACKER-BOT
 
 ——————
 
@@ -122,7 +122,7 @@ Join our official WhatsApp Channel:
 https://whatsapp.com/channel/0029Vb5pqpiAO7RC8BlVO40H/364
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/sadbiy871/SK-HACKER
+https://github.com/sadbiy871/SK-HACKER-BOT
 
 > *© Powered by SK HACKER*
 Stay cool and hack smart. ✌🏻*`;
@@ -149,7 +149,7 @@ showAdAttribution: true
                     process.exit();
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10);
-                    SK_XD_HACKER_CODE();
+                    SK_HACKER_PAIR_CODE();
                 }
             });
         } catch (err) {
